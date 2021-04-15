@@ -1,0 +1,33 @@
+.container {
+  background-color: gainsboro;
+  min-height: 100vh;
+  height: 100%;
+  width: 100%;
+  padding: 16px;
+}
+
+.header {
+  font-size: 32px;
+  margin-bottom: 8px;
+}
+
+#bigShoeSizesId {
+  font-size: 42px;
+}
+
+.redHeader {
+  font-weight: bold;
+}
+
+.personListItem {
+  margin-bottom: 12px;
+}
+
+#image {
+  width:100px;
+}
+
+.title {
+  margin-bottom: 12px;
+  background-color: orange;
+}
