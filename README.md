@@ -2,9 +2,7 @@
 ## Frontend Kodtest
 
 ### Analys
-<code>
 <p>Studera den bifogade React komponenten AddShoeSize.js. Kunden har snabbtestat den och funnit att den löser deras problem för stunden, och den snurrar nu i en produktionsmiljö.</p>
-</code>
 
 -	Vad gör koden?
 -	Vilka delar är bra?
